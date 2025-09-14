@@ -33,12 +33,19 @@ This report provides a detailed explanation on approach used, record inferences,
 
 > seaborn<br>
 
-> matplotlib<br>pyplot
+> matplotlib<br>
+> > pyplot
 
 > scipy<br>
-> > cluster.hierarchy - dendrogram, linkage, fcluster; 
+> > cluster.hierarchy - dendrogram, linkage, fcluster 
 
-> sklearn<br>preprocessing - StandardScaler,cluster - KMeans;<br> metrics - silhouette_samples, silhouette_score, classification_report, confusion_matrix, roc_auc_score, roc_curve;<br> tree - DecisionTreeClassifier; <br>ensemble - RandomForestClassifier; <br>neural_network - MLPClassifier;<br> model_selection - train_test_split, GridSearchCV;<br> 
+> sklearn<br>
+> > preprocessing - StandardScaler,cluster - KMeans
+> >metrics - silhouette_samples, silhouette_score, classification_report, confusion_matrix, roc_auc_score, roc_curve
+> > tree - DecisionTreeClassifier
+> > ensemble - RandomForestClassifier
+> > neural_network - MLPClassifier
+> > model_selection - train_test_split, GridSearchCV 
 
 ## How to run the code?
 - Fork & Clone the repository
