@@ -34,10 +34,10 @@ This report provides a detailed explanation on approach used, record inferences,
 > seaborn<br>
 
 > matplotlib<br>
-> > pyplot
+> > - pyplot
 
 > scipy<br>
-> > cluster.hierarchy - dendrogram, linkage, fcluster 
+> > - cluster.hierarchy - dendrogram, linkage, fcluster 
 
 > sklearn<br>
 > > - preprocessing - StandardScaler,cluster - KMeans<br>
