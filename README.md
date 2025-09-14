@@ -40,12 +40,12 @@ This report provides a detailed explanation on approach used, record inferences,
 > > cluster.hierarchy - dendrogram, linkage, fcluster 
 
 > sklearn<br>
-> > preprocessing - StandardScaler,cluster - KMeans<br>
-> > metrics - silhouette_samples, silhouette_score, classification_report, confusion_matrix, roc_auc_score, roc_curve<br>
-> > tree - DecisionTreeClassifier<br>
-> > ensemble - RandomForestClassifier<br>
-> > neural_network - MLPClassifier<br>
-> > model_selection - train_test_split, GridSearchCV<br>
+> > - preprocessing - StandardScaler,cluster - KMeans<br>
+> > - metrics - silhouette_samples, silhouette_score, classification_report, confusion_matrix, roc_auc_score, roc_curve<br>
+> > - tree - DecisionTreeClassifier<br>
+> > - ensemble - RandomForestClassifier<br>
+> > - neural_network - MLPClassifier<br>
+> > - model_selection - train_test_split, GridSearchCV<br>
 
 ## How to run the code?
 - Fork & Clone the repository
